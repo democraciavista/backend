@@ -1,6 +1,8 @@
 # BACKEND - DEMOCRACIA VISTA
 Plataforma sem fins lucrativos de apoio à democracia virtual que monitora a atividade de políticos com foco em gastos públicos. Projeto desenvolvido para a disciplina "IF977 Engenharia de Software" do curso de Sistemas de Informação da UFPE no período 2024.2.
 
+Backend é feito usando Django.
+
 Mais informações sobre o projeto podem ser encontradas na [página da organização](https://github.com/democraciavista).
 
 *Links Úteis:*
